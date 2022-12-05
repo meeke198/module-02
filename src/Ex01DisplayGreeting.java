@@ -7,6 +7,9 @@ public class Ex01DisplayGreeting {
         String greeting = sc.nextLine();
         String result = "Hello " + greeting;
         System.out.println(result);
+
+        String myName = "Ti";
+        System.out.printf("My name's %s", myName);
         sc.close();
     }
 }
