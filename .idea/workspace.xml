@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/drawingMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/firstNPrimeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drawingMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drawingMenu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,16 +52,16 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.drawingMenu">
-    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Testing" />
+  <component name="RunManager" selected="Application.firstNPrimeNumber">
+    <configuration name="drawingMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="drawingMenu" />
       <module name="lesson-01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="drawingMenu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="drawingMenu" />
+    <configuration name="firstNPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="firstNPrimeNumber" />
       <module name="lesson-01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.firstNPrimeNumber" />
         <item itemvalue="Application.drawingMenu" />
         <item itemvalue="Application.greatestCommonFactor" />
         <item itemvalue="Application.interestCaculator" />
         <item itemvalue="Application.isPrime" />
-        <item itemvalue="Application.Testing" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670229158237</updated>
       <workItem from="1670229159727" duration="4075000" />
-      <workItem from="1670290983443" duration="8788000" />
+      <workItem from="1670290983443" duration="12723000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
