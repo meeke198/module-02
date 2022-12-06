@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/Testing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/isPrime.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Testing">
+  <component name="RunManager" selected="Application.isPrime">
     <configuration name="Ex01DisplayGreeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex01DisplayGreeting" />
       <module name="lesson-01" />
@@ -73,8 +73,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="isPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="isPrime" />
+      <module name="lesson-01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.isPrime" />
         <item itemvalue="Application.Testing" />
         <item itemvalue="Application.Ex01DisplayGreeting" />
         <item itemvalue="Application.Main" />
@@ -90,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670229158237</updated>
       <workItem from="1670229159727" duration="4075000" />
-      <workItem from="1670290983443" duration="2419000" />
+      <workItem from="1670290983443" duration="3931000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
@@ -108,6 +116,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;add display greeting&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;add display greeting&quot;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Testing.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
