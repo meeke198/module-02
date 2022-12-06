@@ -14,10 +14,10 @@ public class interestCaculator {
         System.out.println("Input the interest rate: ");
         interestRate = input.nextFloat();
         for(int i = 1; i <= month; i++){
-            interest = loan * (interestRate/ 100)/12;
+            interest = loan * (interestRate/ 100.0)/12.0;
             loan += interest;
         }
 
-        System.out.println("Total interest is: " + Math.floor(loan));
+        System.out.println("Total interest is: " + Math.ceil(loan));
     }
 }

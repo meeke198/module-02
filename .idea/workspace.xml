@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/interestCaculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/greatestCommonFactor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interestCaculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interestCaculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.interestCaculator">
+  <component name="RunManager" selected="Application.greatestCommonFactor">
     <configuration name="Ex01DisplayGreeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex01DisplayGreeting" />
       <module name="lesson-01" />
@@ -59,15 +60,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Testing" />
       <module name="lesson-01" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Testing" />
+    <configuration name="greatestCommonFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="greatestCommonFactor" />
       <module name="lesson-01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.greatestCommonFactor" />
         <item itemvalue="Application.interestCaculator" />
         <item itemvalue="Application.isPrime" />
         <item itemvalue="Application.Testing" />
         <item itemvalue="Application.Ex01DisplayGreeting" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670229158237</updated>
       <workItem from="1670229159727" duration="4075000" />
-      <workItem from="1670290983443" duration="6269000" />
+      <workItem from="1670290983443" duration="7813000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
