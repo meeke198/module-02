@@ -1,3 +1,5 @@
+package com.lesson02;
+
 import java.util.Scanner;
 
 public class firstNPrimeNumber {
