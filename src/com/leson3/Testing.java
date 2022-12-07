@@ -13,19 +13,24 @@ public class Testing {
 //            System.out.println("Sum from 20 to 37 is " + sum(20, 37));
 //            System.out.println("Sum from 35 to 49 is " + sum(35, 49));
 //        }
-    public static int sum(int num1, int num2){
-        int result = 0;
-        for(int i = num1; i < num2; i++){
-            result += i;
-        }
-        return result;
-
-    }
+//    public static int sum(int num1, int num2){
+//        int result = 0;
+//        for(int i = num1; i < num2; i++){
+//            result += i;
+//        }
+//        return result;
+//
+//    }
 
     public static void main(String[] args) {
-        System.out.println("Sum from 10 to 20 is "+ sum(10, 20));
-        System.out.println("Sum from 20 to 35 is "+ sum(20, 35));
-        System.out.println("Sum from 35 to 40 is "+ sum(35, 40));
+//        System.out.println("Sum from 10 to 20 is "+ sum(10, 20));
+//        System.out.println("Sum from 20 to 35 is "+ sum(20, 35));
+//        System.out.println("Sum from 35 to 40 is "+ sum(35, 40));
+        String s1 = new String("Hello");    //String 1
+        String s2 = new String(" World");    //String 2
+        String s3 = new String(" World");    //String 2
+        String s = String.format("%s%s%s",s1,s2,s3);   //String 3 to store the result
+        System.out.println(s.toString());  //Displays result
     }
 
 }
