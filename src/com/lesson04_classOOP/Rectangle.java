@@ -26,4 +26,5 @@ public class Rectangle {
     public String display(){
         return "Rectangle {" + "width= " + width + ",height=" + height + "}";
     }
+
 }
