@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/com/lesson04_classOOP/TestFan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/lesson04_classOOP/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson04_classOOP/Fan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson04_classOOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson04_classOOP/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson04_classOOP/TestFan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson04_classOOP/TestFan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +145,7 @@
       <workItem from="1670391182274" duration="392000" />
       <workItem from="1670391677109" duration="519000" />
       <workItem from="1670392229807" duration="10544000" />
-      <workItem from="1670470908350" duration="7990000" />
+      <workItem from="1670470908350" duration="9185000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>

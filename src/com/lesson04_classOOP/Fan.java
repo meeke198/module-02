@@ -52,6 +52,7 @@ public class Fan {
 //            System.out.println("Fan speed is " + speed);
 //            System.out.println("Fan color is " + color);
 //            System.out.println("Fan radius is " + radius);
+
             return "Fan speed is " + this.speed + "Fan is on" + "Fan radius is " + this.radius ;
         }else {
 
