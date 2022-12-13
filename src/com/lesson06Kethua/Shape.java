@@ -2,8 +2,8 @@ package com.lesson06Kethua;
 
 public class Shape {
 
-    String color = "green";
-    boolean filled = true;
+    private String color = "green";
+    private boolean filled = true;
 
     public Shape(){
     }
@@ -12,7 +12,10 @@ public class Shape {
         this.filled = newFilled;
     }
     public String getColor(){
-        return color;
+        return this.color;
+    }
+    public boolean getFilled(){
+        return this.filled;
     }
 
     public void setColor(String newColor){
@@ -22,8 +25,9 @@ public class Shape {
     public void setFilled(boolean newFilled){
         this.filled = newFilled;
     }
-    public String toString(String newColor, boolean newFilled){
-        return "A Shape with color of" + newColor + "and " + (newFilled ? "filled" : "not filled");
+    @Override
+    public String toString(){
+        return "A Shape with color of " + this.getColor() + " and " + (this.getFilled() ? "filled" : "not filled");
     }
 
     public static void main(String[] args) {
@@ -31,6 +35,6 @@ public class Shape {
         System.out.println(shape);
 
         shape = new Shape("red", false);
-        System.out.println(shape);
+        System.out.println(shape.toString());
     }
 }
