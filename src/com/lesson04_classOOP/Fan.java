@@ -1,7 +1,7 @@
 package com.lesson04_classOOP;
 
 public class Fan {
-    final int SLOW = 1;
+   static final int SLOW = 1;
     final int MEDIUM = 2;
     final int FAST = 3;
    private int speed = SLOW;

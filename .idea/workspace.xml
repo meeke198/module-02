@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/com/lesson04_classOOP/QuadraticEquation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson04_classOOP/StopWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson5AccessModifier/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson5AccessModifier/NonStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson5AccessModifier/Testing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson04_classOOP/Fan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson04_classOOP/Fan.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +59,26 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StopWatch">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson04_classOOP.Main" />
+  <component name="RunManager" selected="Application.MyClass">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson5AccessModifier.A" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson04_classOOP.*" />
+          <option name="PATTERN" value="com.lesson5AccessModifier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson5AccessModifier.MyClass" />
+      <module name="lesson-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson5AccessModifier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,25 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSimpleCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson04_classOOP.TestSimpleCircle" />
+    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson5AccessModifier.Testing" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson04_classOOP.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="baitap01XoaPhanTuTrongMang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leson3.baitap01XoaPhanTuTrongMang" />
-      <module name="lesson-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leson3.*" />
+          <option name="PATTERN" value="com.lesson5AccessModifier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.A" />
+        <item itemvalue="Application.Testing" />
         <item itemvalue="Application.StopWatch" />
         <item itemvalue="Application.TestFan" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TestSimpleCircle" />
-        <item itemvalue="Application.baitap01XoaPhanTuTrongMang" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +149,9 @@
       <workItem from="1670391677109" duration="519000" />
       <workItem from="1670392229807" duration="10544000" />
       <workItem from="1670470908350" duration="12341000" />
-      <workItem from="1670511333109" duration="2558000" />
+      <workItem from="1670511333109" duration="3063000" />
+      <workItem from="1670550898952" duration="7132000" />
+      <workItem from="1670830685741" duration="1921000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
@@ -173,8 +178,61 @@
           <line>11</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lesson5AccessModifier/MyClass.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lesson5AccessModifier/MyClass.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lesson5AccessModifier/MyClass.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lesson5AccessModifier/MyClass.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lesson5AccessModifier/MyClass.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lesson5AccessModifier/MyClass.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lesson5AccessModifier/MyClass.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/com/lesson5AccessModifier/MyClass.java</url>
+          <line>3</line>
+          <properties class="com.lesson5AccessModifier.MyClass" method="method">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="first" language="JAVA" />
+        <watch expression="first" language="JAVA" />
+        <watch expression="last" language="JAVA" />
+        <watch expression="a" language="JAVA" />
+        <watch expression="b" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
