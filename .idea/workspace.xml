@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
+      <change afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Circle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson06Kethua/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson5AccessModifier/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson5AccessModifier/MyClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,35 +55,9 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Shape">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson5AccessModifier.A" />
-      <module name="lesson-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lesson5AccessModifier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson5AccessModifier.MyClass" />
-      <module name="lesson-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lesson5AccessModifier.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Shape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Shape" />
+  <component name="RunManager" selected="Application.Circle">
+    <configuration name="Circle (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Circle" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
@@ -96,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StopWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson04_classOOP.StopWatch" />
+    <configuration name="Circle (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Circle" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson04_classOOP.*" />
+          <option name="PATTERN" value="com.lesson06Kethua.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +82,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson5AccessModifier.Testing" />
+    <configuration name="Circle (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Circle" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson5AccessModifier.*" />
+          <option name="PATTERN" value="com.lesson06Kethua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circle (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Circle" />
+      <module name="lesson-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson06Kethua.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Circle" />
+      <module name="lesson-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson06Kethua.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Shape" />
-        <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.A" />
-        <item itemvalue="Application.Testing" />
-        <item itemvalue="Application.StopWatch" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.Circle (4)" />
+        <item itemvalue="Application.Circle (3)" />
+        <item itemvalue="Application.Circle (2)" />
+        <item itemvalue="Application.Circle (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +147,7 @@
       <workItem from="1670470908350" duration="12341000" />
       <workItem from="1670511333109" duration="3063000" />
       <workItem from="1670550898952" duration="7132000" />
-      <workItem from="1670830685741" duration="2617000" />
+      <workItem from="1670830685741" duration="4002000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
