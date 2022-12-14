@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal/Tiger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/edible/Edible.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson06Kethua/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +23,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -52,12 +59,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Rectangle">
-    <configuration name="Circle (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Circle" />
+  <component name="RunManager" selected="Application.com.lesson07AbstractClass_Interface.animal.Animal">
+    <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Animal" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
@@ -69,21 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circle (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Circle" />
-      <module name="lesson-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lesson06Kethua.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Circle (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Circle" />
+    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Cat" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
@@ -121,13 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.lesson07AbstractClass_Interface.animal.Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson07AbstractClass_Interface.animal.Animal" />
+      <module name="lesson-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson07AbstractClass_Interface.animal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.lesson07AbstractClass_Interface.animal.Animal" />
+        <item itemvalue="Application.Cat" />
+        <item itemvalue="Application.Animal" />
         <item itemvalue="Application.Rectangle" />
         <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.Circle (4)" />
-        <item itemvalue="Application.Circle (3)" />
-        <item itemvalue="Application.Circle (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +155,11 @@
       <workItem from="1670470908350" duration="12341000" />
       <workItem from="1670511333109" duration="3063000" />
       <workItem from="1670550898952" duration="7132000" />
-      <workItem from="1670830685741" duration="4002000" />
+      <workItem from="1670830685741" duration="6171000" />
+      <workItem from="1670916371069" duration="136000" />
+      <workItem from="1670916522809" duration="392000" />
+      <workItem from="1670917739117" duration="1019000" />
+      <workItem from="1670984457074" duration="4990000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
@@ -173,6 +185,11 @@
           <url>file://$PROJECT_DIR$/src/com/lesson02/Testing.java</url>
           <line>11</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/lesson06Kethua/Animal.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
