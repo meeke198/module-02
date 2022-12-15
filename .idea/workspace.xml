@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal/Chicken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal/Tiger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/edible/Edible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson08CleanCode/Caculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson06Kethua/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -160,6 +154,7 @@
       <workItem from="1670916522809" duration="392000" />
       <workItem from="1670917739117" duration="1019000" />
       <workItem from="1670984457074" duration="4990000" />
+      <workItem from="1671040051274" duration="661000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
