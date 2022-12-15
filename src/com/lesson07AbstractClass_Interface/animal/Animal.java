@@ -2,6 +2,7 @@ package com.lesson07AbstractClass_Interface.animal;
 
 public abstract class Animal{
     public abstract String makeSound();
+
         public static void main(String[] args) {
             Animal[] animals = new Animal[2];
             animals[0] = new Tiger();
