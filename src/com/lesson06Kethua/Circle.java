@@ -1,5 +1,5 @@
 package com.lesson06Kethua;
-//import java.util.Shape;
+//import java.util.com.apiShape.CircleTest.Shape;
 public class Circle extends Shape {
     public double radius;
     public Circle (){

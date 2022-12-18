@@ -1,4 +1,4 @@
-package com.lesson07AbstractClass_Interface.comparable;
+package com.apiShape;
 
 public class Shape {
     private String color = "green";
@@ -13,26 +13,24 @@ public class Shape {
     }
 
     public String getColor() {
-        return color;
+        return this.color;
     }
 
-    public void setColor(String color) {
-        this.color = color;
+    public void setColor(String newColor){
+        this.color = newColor;
     }
 
-    public boolean isFilled() {
+    public boolean getFilled(){
         return filled;
     }
-
-    public void setFilled(boolean filled) {
-        this.filled = filled;
+    public void setFilled(boolean newFilled){
+        this.filled = newFilled;
     }
-
-    @Override
     public String toString() {
-        return "A com.apiShape.CircleTest.Shape with color of "
+        return "A Shape with color of "
                 + getColor()
                 + " and "
-                + (isFilled() ? "filled" : "not filled");
+                + (getFilled() ? "filled" : "not filled");
     }
+
 }

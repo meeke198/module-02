@@ -10,9 +10,9 @@ public class Main {
         System.out.print("Enter the height:");
         double height = scanner.nextDouble();
         Rectangle rectangle = new Rectangle(width, height);
-        System.out.println("Your Rectangle \n" + rectangle.display());
-        System.out.println("Perimeter of the Rectangle: " + rectangle.getPerimeter());
-//        System.out.println("Area of the Rectangle: " + rectangle.method(4));
+        System.out.println("Your com.apiShape.CircleTest.Rectangle \n" + rectangle.display());
+        System.out.println("Perimeter of the com.apiShape.CircleTest.Rectangle: " + rectangle.getPerimeter());
+//        System.out.println("Area of the com.apiShape.CircleTest.Rectangle: " + rectangle.method(4));
     }
 
 

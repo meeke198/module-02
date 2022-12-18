@@ -27,14 +27,14 @@ public class Shape {
     }
     @Override
     public String toString(){
-        return "A Shape with color of " + this.getColor() + " and " + (this.getFilled() ? "filled" : "not filled");
+        return "A com.apiShape.CircleTest.Shape with color of " + this.getColor() + " and " + (this.getFilled() ? "filled" : "not filled");
     }
 
     public static void main(String[] args) {
         Shape shape = new Shape();
         System.out.println(shape);
 //
-//        shape = new Shape("red", false);
+//        shape = new com.apiShape.CircleTest.Shape("red", false);
         System.out.println(shape);
     }
 }

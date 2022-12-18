@@ -24,7 +24,7 @@ public class Rectangle {
         return (this.width + this.height) * 2;
     }
     public String display(){
-        return "Rectangle {" + "width= " + width + ",height=" + height + "}";
+        return "com.apiShape.CircleTest.Rectangle {" + "width= " + width + ",height=" + height + "}";
     }
 
 }

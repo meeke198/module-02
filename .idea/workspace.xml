@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/comparable/ComparableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/apiShape/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/apiShape/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/apiShape/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/apiShape/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/comparable/Comparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/comparable/ComparableCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson04_classOOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson04_classOOP/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson04_classOOP/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson04_classOOP/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson06Kethua/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson06Kethua/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson06Kethua/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/comparable/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/comparable/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -29,33 +38,38 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2IUHHuvbhJWPoCouliGa4IJKVqX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal" />
+      <recent name="$PROJECT_DIR$/src/com/lesson06Kethua" />
+      <recent name="$PROJECT_DIR$/src/com/api" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ComparableCircleTest">
@@ -155,7 +169,8 @@
       <workItem from="1670916522809" duration="392000" />
       <workItem from="1670917739117" duration="1019000" />
       <workItem from="1670984457074" duration="4990000" />
-      <workItem from="1671040051274" duration="5247000" />
+      <workItem from="1671040051274" duration="5871000" />
+      <workItem from="1671181109391" duration="4027000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
@@ -171,6 +186,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&quot;add display greeting&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;add display greeting&quot;" />
   </component>
