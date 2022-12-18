@@ -1,6 +1,6 @@
 package com.apiShape;
 
-public class Rectangle extends Shape {
+public class Rectangle extends Shape implements Resizeable {
     private double width;
     private double length;
 
@@ -13,7 +13,7 @@ public class Rectangle extends Shape {
         this.length = newLength;
     }
 
-    public Rectangle(double newWidth, double newLength, boolean newFilled, String newColor){
+    public Rectangle(double newWidth, double newLength, String newColor, boolean newFilled){
         super(newColor, newFilled);
         this.width = newWidth;
         this.length = newLength;
@@ -36,15 +36,21 @@ public class Rectangle extends Shape {
         this.length = newLength;
     }
     public double getArea() {
-       return (width + length) * 2;
+       return Math.round(width * length);
     }
 
     public double getPerimeter(){
-        return width * length;
+        return Math.round((width + length) * 2);
     }
+
+    @Override
+    public void resize(double percent) {
+        System.out.println(percent * this.getArea());
+    }
+
     @Override
     public String toString() {
-        return "This rectangle has the length of" + getLength() + "and width of" + getWidth() +
-        super.toString();
+        return "This rectangle has the length of " + getLength() + " and width of " + getWidth() +
+        super.toString() + " and area of "+ getArea();
     }
 }

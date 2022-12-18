@@ -21,7 +21,7 @@ public class Circle extends Shape implements Resizeable {
    }
 
     public double getArea() {
-        return radius * radius * Math.PI;
+        return Math.floor(radius * radius * Math.PI);
     }
 
     public double getPerimeter() {
@@ -30,14 +30,15 @@ public class Circle extends Shape implements Resizeable {
 
     @Override
     public String toString() {
-        return "A Circle with radius="
+        return "A Circle with radius= "
                 + getRadius()
-                + ", which is a subclass of "
-                + super.toString();
+                + " which is a subclass of "
+                + super.toString() + " and area of "+
+                getArea();
     }
 
     @Override
-    public double resize(double percent) {
-        return percent * this.getArea();
+    public void resize(double percent) {
+        System.out.println(percent * this.getArea());
     }
 }

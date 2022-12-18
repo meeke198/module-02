@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/com/apiShape/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/apiShape/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/apiShape/Resizeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/apiShape/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/apiShape/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson04_classOOP/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson04_classOOP/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson04_classOOP/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson04_classOOP/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson06Kethua/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson06Kethua/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson06Kethua/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson06Kethua/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/comparable/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/comparable/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/apiShape/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/apiShape/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/apiShape/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/apiShape/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/apiShape/Resizeable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/apiShape/Resizeable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -72,7 +65,7 @@
       <recent name="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ComparableCircleTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Animal" />
       <module name="lesson-01" />
@@ -112,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Rectangle" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.apiShape.Main" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson06Kethua.*" />
+          <option name="PATTERN" value="com.apiShape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ComparableCircleTest" />
         <item itemvalue="Application.com.lesson07AbstractClass_Interface.animal.Animal" />
         <item itemvalue="Application.Cat" />
         <item itemvalue="Application.Animal" />
-        <item itemvalue="Application.Rectangle" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +163,7 @@
       <workItem from="1670917739117" duration="1019000" />
       <workItem from="1670984457074" duration="4990000" />
       <workItem from="1671040051274" duration="5871000" />
-      <workItem from="1671181109391" duration="4027000" />
+      <workItem from="1671181109391" duration="6166000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
