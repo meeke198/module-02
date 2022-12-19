@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/com/colorable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/colorable/Colorable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/colorable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/colorable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/colorable/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/colorable/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IterateUsingEnhanceForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IterateUsingIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IterateUsingWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/findMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/getMed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/isEmptyMed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/remove.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/size.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/colorable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/colorable/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +70,13 @@
       <recent name="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.colorable.Main">
-    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson06Kethua.Cat" />
+  <component name="RunManager" selected="Application.remove">
+    <configuration name="Gfg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.Gfg" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson06Kethua.*" />
+          <option name="PATTERN" value="com.lesson09ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ComparableCircleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson07AbstractClass_Interface.comparable.ComparableCircleTest" />
+    <configuration name="findMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.findMethod" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson07AbstractClass_Interface.comparable.*" />
+          <option name="PATTERN" value="com.lesson09ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.apiShape.Main" />
+    <configuration name="getMed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.getMed" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.apiShape.*" />
+          <option name="PATTERN" value="com.lesson09ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.colorable.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.colorable.Main" />
+    <configuration name="remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.remove" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.colorable.*" />
+          <option name="PATTERN" value="com.lesson09ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.lesson07AbstractClass_Interface.animal.Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson07AbstractClass_Interface.animal.Animal" />
+    <configuration name="size" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.size" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson07AbstractClass_Interface.animal.*" />
+          <option name="PATTERN" value="com.lesson09ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.colorable.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.ComparableCircleTest" />
-        <item itemvalue="Application.com.lesson07AbstractClass_Interface.animal.Animal" />
-        <item itemvalue="Application.Cat" />
+        <item itemvalue="Application.remove" />
+        <item itemvalue="Application.findMethod" />
+        <item itemvalue="Application.Gfg" />
+        <item itemvalue="Application.size" />
+        <item itemvalue="Application.getMed" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +168,7 @@
       <workItem from="1670917739117" duration="1019000" />
       <workItem from="1670984457074" duration="4990000" />
       <workItem from="1671040051274" duration="5871000" />
-      <workItem from="1671181109391" duration="12246000" />
+      <workItem from="1671181109391" duration="18904000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
