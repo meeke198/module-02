@@ -5,16 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IterateUsingEnhanceForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IterateUsingIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IterateUsingWhileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/findMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/getMed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/isEmptyMed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/remove.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/ArrayExample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/ArrayExample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/HashSetExample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/HashSetExample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IteratorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IteratorExample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IteratorExample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IteratorExample03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IteratorExample04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IteratorExample05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IteratorExample06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/LinkedListExample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/LinkedListExample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/ListExample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/ListExample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/ListIteratorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/ListVsListIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/SinglyLinkedList" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/TestGenerics4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09Thuchanh/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/colorable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/colorable/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson09ArrayList/IterateUsingWhileLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/IterateUsingWhileLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,25 +59,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/com/lesson06Kethua" />
@@ -70,9 +86,9 @@
       <recent name="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.remove">
-    <configuration name="Gfg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.Gfg" />
+  <component name="RunManager" selected="Application.TestGenerics4">
+    <configuration name="LinkedListExample02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.LinkedListExample02" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.findMethod" />
+    <configuration name="ListExample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.ListExample01" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="getMed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.getMed" />
+    <configuration name="ListExample02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.ListExample02" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="remove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.remove" />
+    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.SetExample" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="size" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.size" />
+    <configuration name="TestGenerics4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.TestGenerics4" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.remove" />
-        <item itemvalue="Application.findMethod" />
-        <item itemvalue="Application.Gfg" />
-        <item itemvalue="Application.size" />
-        <item itemvalue="Application.getMed" />
+        <item itemvalue="Application.TestGenerics4" />
+        <item itemvalue="Application.SetExample" />
+        <item itemvalue="Application.ListExample02" />
+        <item itemvalue="Application.ListExample01" />
+        <item itemvalue="Application.LinkedListExample02" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +184,10 @@
       <workItem from="1670917739117" duration="1019000" />
       <workItem from="1670984457074" duration="4990000" />
       <workItem from="1671040051274" duration="5871000" />
-      <workItem from="1671181109391" duration="18904000" />
+      <workItem from="1671181109391" duration="18999000" />
+      <workItem from="1671509277842" duration="9313000" />
+      <workItem from="1671607941316" duration="2437000" />
+      <workItem from="1671682889334" duration="1542000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
