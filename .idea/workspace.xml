@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/GenericTest5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson09Thuchanh/Variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/Syntax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson09ArrayList/TestGenerics4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson09ArrayList/TestGenerics4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson09Thuchanh/MyList.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyList">
+  <component name="RunManager" selected="Application.LinkedList">
     <configuration name="GenericTest5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.GenericTest5" />
       <module name="lesson-01" />
@@ -81,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.MyList" />
+    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.LinkedList" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.SetExample" />
+    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.MyList" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.MyList" />
         <item itemvalue="Application.Variable" />
         <item itemvalue="Application.GenericTest5" />
         <item itemvalue="Application.TestGenerics4" />
-        <item itemvalue="Application.SetExample" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +165,7 @@
       <workItem from="1671607941316" duration="2437000" />
       <workItem from="1671682889334" duration="3444000" />
       <workItem from="1671856797701" duration="679000" />
-      <workItem from="1671861938408" duration="1579000" />
+      <workItem from="1671861938408" duration="5415000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
