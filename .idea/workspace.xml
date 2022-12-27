@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;" />
+    <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
+      <change afterPath="$PROJECT_DIR$/src/com/lesson15Debug/IllegalTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculationExample">
+  <component name="RunManager" selected="Application.IllegalTriangle">
     <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lesson15Debug.ArrayExample" />
       <module name="lesson-01" />
@@ -86,6 +89,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IllegalTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson15Debug.IllegalTriangle" />
+      <module name="lesson-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson15Debug.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IllegalTriangleException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson15Debug.IllegalTriangleException" />
+      <module name="lesson-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson15Debug.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinearEquationResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lesson15Debug.LinearEquationResolver" />
       <module name="lesson-01" />
@@ -99,39 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson11SearchingAl.PerformanceTest" />
-      <module name="lesson-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lesson11SearchingAl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="linearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson11SearchingAl.linearSearch" />
-      <module name="lesson-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lesson11SearchingAl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IllegalTriangle" />
+        <item itemvalue="Application.IllegalTriangleException" />
         <item itemvalue="Application.CalculationExample" />
         <item itemvalue="Application.ArrayExample" />
         <item itemvalue="Application.LinearEquationResolver" />
-        <item itemvalue="Application.PerformanceTest" />
-        <item itemvalue="Application.linearSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +168,7 @@
       <workItem from="1671861938408" duration="6832000" />
       <workItem from="1672022612977" duration="4294000" />
       <workItem from="1672093363535" duration="1000" />
-      <workItem from="1672107081623" duration="3801000" />
+      <workItem from="1672107081623" duration="5863000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
