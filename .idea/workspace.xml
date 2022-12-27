@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;" />
+    <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
+      <change afterPath="$PROJECT_DIR$/src/com/lesson11SearchingAl/PerformanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson11SearchingAl/binarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson11SearchingAl/linearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson15Debug/LinearEquationResolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson11SearchingAl/asfdsd.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,13 +66,13 @@
       <recent name="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LinkedList">
-    <configuration name="GenericTest5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.GenericTest5" />
+  <component name="RunManager" selected="Application.LinearEquationResolver">
+    <configuration name="LinearEquationResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson15Debug.LinearEquationResolver" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson09ArrayList.*" />
+          <option name="PATTERN" value="lesson15Debug.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestGenerics4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson09ArrayList.TestGenerics4" />
+    <configuration name="PerformanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson11SearchingAl.PerformanceTest" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson09ArrayList.*" />
+          <option name="PATTERN" value="com.lesson11SearchingAl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson09Thuchanh.Variable" />
+    <configuration name="linearSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson11SearchingAl.linearSearch" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson09Thuchanh.*" />
+          <option name="PATTERN" value="com.lesson11SearchingAl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinearEquationResolver" />
+        <item itemvalue="Application.PerformanceTest" />
+        <item itemvalue="Application.linearSearch" />
         <item itemvalue="Application.LinkedList" />
         <item itemvalue="Application.MyList" />
-        <item itemvalue="Application.Variable" />
-        <item itemvalue="Application.GenericTest5" />
-        <item itemvalue="Application.TestGenerics4" />
       </list>
     </recent_temporary>
   </component>
@@ -162,7 +169,10 @@
       <workItem from="1671607941316" duration="2437000" />
       <workItem from="1671682889334" duration="3444000" />
       <workItem from="1671856797701" duration="679000" />
-      <workItem from="1671861938408" duration="6456000" />
+      <workItem from="1671861938408" duration="6832000" />
+      <workItem from="1672022612977" duration="4294000" />
+      <workItem from="1672093363535" duration="1000" />
+      <workItem from="1672107081623" duration="1866000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
@@ -171,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670232893984</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;add display greeting&quot;">
+      <created>1672022310716</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672022310717</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +211,26 @@
           <url>file://$PROJECT_DIR$/src/com/lesson06Kethua/Animal.java</url>
           <line>16</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson15Debug/LinearEquationResolver.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson15Debug/LinearEquationResolver.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson15Debug/LinearEquationResolver.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lesson15Debug/LinearEquationResolver.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
