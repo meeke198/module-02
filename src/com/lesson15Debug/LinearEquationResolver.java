@@ -1,4 +1,4 @@
-package lesson15Debug;
+package com.lesson15Debug;
 import java.util.Scanner;
 
     public class LinearEquationResolver {
