@@ -2,8 +2,7 @@ package com.lesson15Debug;
 
 import java.util.Scanner;
 
-
-public class IllegalTriangle {
+public class IllegalTriangle extends Exception {
     private double side1;
     private double side2;
     private double side3;

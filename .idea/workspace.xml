@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/com/lesson15Debug/IllegalTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson15Debug/IllegalTriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson15Debug/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson15Debug/TriangleWithException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson15Debug/CalculationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson15Debug/CalculationExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson15Debug/IllegalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson15Debug/IllegalTriangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,7 @@
       <recent name="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IllegalTriangle">
+  <component name="RunManager" selected="Application.TriangleWithException">
     <configuration name="ArrayExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lesson15Debug.ArrayExample" />
       <module name="lesson-01" />
@@ -115,8 +119,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinearEquationResolver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson15Debug.LinearEquationResolver" />
+    <configuration name="TriangleWithException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson15Debug.TriangleWithException" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TriangleWithException" />
+        <item itemvalue="Application.CalculationExample" />
         <item itemvalue="Application.IllegalTriangle" />
         <item itemvalue="Application.IllegalTriangleException" />
-        <item itemvalue="Application.CalculationExample" />
         <item itemvalue="Application.ArrayExample" />
-        <item itemvalue="Application.LinearEquationResolver" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +172,7 @@
       <workItem from="1671861938408" duration="6832000" />
       <workItem from="1672022612977" duration="4294000" />
       <workItem from="1672093363535" duration="1000" />
-      <workItem from="1672107081623" duration="5863000" />
+      <workItem from="1672107081623" duration="7894000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>

@@ -22,6 +22,7 @@ public class CalculationExample {
             System.out.println("Tích x * y = " + c);
             System.out.println("Thương x / y = " + d);
         } catch (Exception e) {
+//            System.out.println(e);
             System.err.println("Xảy ra ngoại lệ: " + e.getMessage());
         }
     }
