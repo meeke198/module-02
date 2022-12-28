@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/src/com/lesson14Sorting/insertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson16File/ReadTextFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson16File/TestFileClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scores.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson16File/GoiFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson16File/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson16File/WriteData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson16File/WriteText.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson15Debug/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson15Debug/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson16File/ReadTextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson16File/ReadTextFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson16File/TestFileClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson16File/TestFileClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,20 +69,7 @@
       <recent name="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReadTextFile">
-    <configuration name="MyProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson15Debug.MyProgram" />
-      <module name="lesson-01" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lesson15Debug.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.WriteText">
     <configuration name="ReadTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lesson16File.ReadTextFile" />
       <module name="lesson-01" />
@@ -105,12 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleWithException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson15Debug.TriangleWithException" />
+    <configuration name="WriteData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson16File.WriteData" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson15Debug.*" />
+          <option name="PATTERN" value="com.lesson16File.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson16File.WriteText" />
+      <module name="lesson-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lesson16File.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadTextFile" />
+        <item itemvalue="Application.WriteText" />
+        <item itemvalue="Application.WriteData" />
         <item itemvalue="Application.TestFileClass" />
+        <item itemvalue="Application.ReadTextFile" />
         <item itemvalue="Application.insertionSort" />
-        <item itemvalue="Application.MyProgram" />
-        <item itemvalue="Application.TriangleWithException" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +176,7 @@
       <workItem from="1672022612977" duration="4294000" />
       <workItem from="1672093363535" duration="1000" />
       <workItem from="1672107081623" duration="9711000" />
-      <workItem from="1672193200804" duration="2924000" />
+      <workItem from="1672193200804" duration="9692000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
