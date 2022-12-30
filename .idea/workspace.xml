@@ -5,15 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scores.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson16File/GoiFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson16File/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson16File/WriteData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson16File/WriteText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeGym.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/CodeGym.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/case_study/Pet/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/case_study/Service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson11SearchingAl/PrintAsciiValueExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson16File/ReadFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson17BinaryIO/InputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson17BinaryIO/InputStreamExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson17BinaryIO/OutputStreamExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lesson17BinaryIO/ReadByteConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/MultithreadThing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/MultithreadThing2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/Multithreading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/TestSynchronization1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/multithreading/TestSynchronization3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson16File/ReadTextFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson16File/ReadTextFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson16File/TestFileClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson16File/TestFileClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/case_study/Customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/case_study/Customer/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/lesson16File/WriteText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson16File/WriteText.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +83,13 @@
       <recent name="$PROJECT_DIR$/src/com/lesson07AbstractClass_Interface/animal" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WriteText">
-    <configuration name="ReadTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson16File.ReadTextFile" />
+  <component name="RunManager" selected="Application.TestSynchronization3">
+    <configuration name="Multithreading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multithreading.Multithreading" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson16File.*" />
+          <option name="PATTERN" value="com.multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestFileClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson16File.TestFileClass" />
+    <configuration name="OutputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson17BinaryIO.OutputStreamExample" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson16File.*" />
+          <option name="PATTERN" value="com.lesson17BinaryIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson16File.WriteData" />
+    <configuration name="PrintAsciiValueExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lesson11SearchingAl.PrintAsciiValueExample1" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson16File.*" />
+          <option name="PATTERN" value="com.lesson11SearchingAl.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson16File.WriteText" />
+    <configuration name="TestSynchronization1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multithreading.TestSynchronization1" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson16File.*" />
+          <option name="PATTERN" value="com.multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="insertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lesson14Sorting.insertionSort" />
+    <configuration name="TestSynchronization3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multithreading.TestSynchronization3" />
       <module name="lesson-01" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lesson14Sorting.*" />
+          <option name="PATTERN" value="com.multithreading.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WriteText" />
-        <item itemvalue="Application.WriteData" />
-        <item itemvalue="Application.TestFileClass" />
-        <item itemvalue="Application.ReadTextFile" />
-        <item itemvalue="Application.insertionSort" />
+        <item itemvalue="Application.TestSynchronization3" />
+        <item itemvalue="Application.TestSynchronization1" />
+        <item itemvalue="Application.Multithreading" />
+        <item itemvalue="Application.PrintAsciiValueExample1" />
+        <item itemvalue="Application.OutputStreamExample" />
       </list>
     </recent_temporary>
   </component>
@@ -177,6 +191,8 @@
       <workItem from="1672093363535" duration="1000" />
       <workItem from="1672107081623" duration="9711000" />
       <workItem from="1672193200804" duration="9692000" />
+      <workItem from="1672210724774" duration="549000" />
+      <workItem from="1672212668543" duration="18458000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>
