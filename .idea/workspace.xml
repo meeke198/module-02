@@ -5,29 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a83c9cd3-9655-4658-8dfc-97ed642eed33" name="Changes" comment="&quot;add display greeting&quot;">
-      <change afterPath="$PROJECT_DIR$/CodeGym.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/CodeGym.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/case_study/Pet/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/case_study/Service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson11SearchingAl/PrintAsciiValueExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson16File/ReadFileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson17BinaryIO/InputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson17BinaryIO/InputStreamExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson17BinaryIO/OutputStreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lesson17BinaryIO/ReadByteConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multithreading/MultithreadThing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multithreading/MultithreadThing2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multithreading/Multithreading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multithreading/MyThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multithreading/MyThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multithreading/Table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multithreading/TestSynchronization1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multithreading/TestSynchronization3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.txt" beforeDir="false" afterPath="$PROJECT_DIR$/hello.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/case_study/Customer/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/case_study/Customer/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/lesson16File/WriteText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/lesson16File/WriteText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/case_study/Pet/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/case_study/Pet/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/case_study/Service/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/case_study/Service/Service.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,7 +173,8 @@
       <workItem from="1672107081623" duration="9711000" />
       <workItem from="1672193200804" duration="9692000" />
       <workItem from="1672210724774" duration="549000" />
-      <workItem from="1672212668543" duration="18458000" />
+      <workItem from="1672212668543" duration="20095000" />
+      <workItem from="1672385532247" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;add display greeting&quot;">
       <created>1670232893984</created>

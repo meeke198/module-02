@@ -6,7 +6,6 @@ public class Customer {
     private String name;
     private byte age;
     private String address;
-
     private String phoneNumber;
     public Customer (){
 
@@ -20,5 +19,33 @@ public class Customer {
         this.address = address;
         this.phoneNumber = phoneNumber;
     }
+    public String getName(){
+        return this.name;
+    }
+    public String getAddress(){
+        return this.address;
+    }
+    public String getPhoneNumber(){
+        return phoneNumber;
+    }
+    public int getAge(){
+        return this.age;
+    }
+    public void setName(String newName){
+        this.name = newName;
+    }
 
+    public void setAddress(String newAddress){
+        this.address = newAddress;
+
+}
+    public void setAge(byte newAge){
+        this.age = newAge;
+    }
+
+    public void setPhoneNumber(String newPhoneNumber){
+
+        this.phoneNumber = newPhoneNumber;
+    }
+    
 }
