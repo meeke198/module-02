@@ -12,8 +12,8 @@ public class EmailExample {
         pattern = Pattern.compile(EMAIL_REGEX);
     }
 
-    public boolean validate(String regex) {
-        matcher = pattern.matcher(regex);
+    public boolean validate(String inputEmail) {
+        matcher = pattern.matcher(inputEmail);
         return matcher.matches();
     }
 
